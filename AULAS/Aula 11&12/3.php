@@ -17,7 +17,7 @@
         private $nome;
         private $email;
 
-        public function __construct($nome, $email)
+        public function _construct($nome, $email)
         {
             $this->nome = $nome;
             $this->email = $email;
